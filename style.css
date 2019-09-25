@@ -108,10 +108,10 @@ a {text-decoration: none;
  }
 
 .center {
-    margin-left: auto;
-    margin-right: auto;
-    display: block
-}
+    margin: 0 auto; 
+    width: 400px;
+    **display:block**
+ }
 
 .yellow-card {
 	background-color: #0093AE;
