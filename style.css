@@ -149,10 +149,10 @@ a {text-decoration: none;
 	}
 }
 
-@media (max-width: 500px) {
+@media (max-width: 400px) {
 	.container {
 		margin: 15px auto;
-		width: 340px;
+		width: 370px;
 	}
 	.visible-large-screen {
 		display: none;
