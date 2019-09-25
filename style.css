@@ -67,7 +67,6 @@ a {text-decoration: none;
 
 .container {
 	background-color: #FFFFFF
-	margin: 15px auto;
 	width: 7000px
 	padding: 12px 30px 12px 30px;
 }
@@ -75,7 +74,6 @@ a {text-decoration: none;
 	background-color: #FFFFFF;
 	width: 700px
 	padding: 30px 60px 30px 60px;
- 	margin: 20px auto;
  	border-radius: 3px;
  	text-align: left;
  }
