@@ -73,10 +73,10 @@ a {text-decoration: none;
 	background-color: white;
 	padding: 12px 30px 12px 30px;
  	margin: 40px auto;
- 	border-radius: 3px;
+ 	border-radius: 5px;
  	text-align: left;
   }
-  
+
 .yellow-card {
 	background-color: #0093AE;
 	color: white;
