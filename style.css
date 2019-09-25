@@ -66,6 +66,7 @@ a {text-decoration: none;
 */
 
 .container {
+	background-color: #FFFFFF
 	margin: 15px auto;
 	width: 7000px
 }
