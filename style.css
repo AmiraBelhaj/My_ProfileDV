@@ -149,13 +149,17 @@ a {text-decoration: none;
 	}
 }
 
-@media (max-width: 500px) {
+@media (max-width: 340px) {
 	.container {
 		margin: 15px auto;
 		width: 370px;
 	}
 	.visible-large-screen {
 		display: none;
+	}
+	.visible-small-screen {
+		margin: 15px auto;
+		width: 370px;
 	}
 }
 */
