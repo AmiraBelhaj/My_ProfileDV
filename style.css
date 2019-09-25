@@ -107,6 +107,12 @@ a {text-decoration: none;
  	text-align: left;
  }
 
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
 .yellow-card {
 	background-color: #0093AE;
 	color: white;
