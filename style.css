@@ -142,4 +142,23 @@ a {text-decoration: none;
 .buttun-purple:hover {background-color: #EE593D;
 }
 
+@media (max-width: 900px) {
+	.container {
+		margin: 15px auto;
+		width: 900px;
+	}
+}
+
+@media (max-width: 400px) {
+	.container {
+		margin: 15px auto;
+		width: 370px;
+	}
+	.visible-large-screen {
+		display: none;
+	}
+	.visible-small-screen {
+		display: none;
+	}
+}
 */
