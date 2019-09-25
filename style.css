@@ -70,7 +70,8 @@ a {text-decoration: none;
 	width: 800px
 }
 .white-card {
-	background-color: white;
+	background-color: red;
+	width: 800px
 	padding: 12px 30px 12px 30px;
  	margin: 20px auto;
  	border-radius: 3px;
