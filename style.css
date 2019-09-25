@@ -71,8 +71,8 @@ a {text-decoration: none;
 .white-card {
 	background-color: white;
 	width: 900px
-	padding: 30px 30px 30px 30px;
- 	border-radius: 5px;
+	padding: 50px;
+ 	border-radius: 4px;
  	text-align: left;
  }
 
