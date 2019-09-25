@@ -149,7 +149,7 @@ a {text-decoration: none;
 	}
 }
 
-@media (max-width: 340px) {
+@media (max-width: 500px) {
 	.container {
 		margin: 15px auto;
 		width: 370px;
