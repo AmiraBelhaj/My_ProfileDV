@@ -73,6 +73,7 @@ a {text-decoration: none;
 }
 .white-card {
 	background-color: #FFFFFF;
+	margin: 15px auto;
 	width: 700px
  	border-radius: 3px;
  	text-align: left;
