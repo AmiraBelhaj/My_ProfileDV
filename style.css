@@ -66,10 +66,10 @@ a {text-decoration: none;
 
 .container {
 	margin: 15px auto;
-	width: 900px
 }
 .white-card {
 	background-color: white;
+	width: 900px
 	padding: 30px 30px 30px 30px;
  	margin: 40px auto;
  	border-radius: 5px;
