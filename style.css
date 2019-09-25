@@ -67,11 +67,12 @@ a {text-decoration: none;
 
 .container {
 	margin: 15px auto;
+	padding: 50px;
 }
 .white-card {
 	background-color: white;
-	width: 900px
 	padding: 50px;
+	width: 900px
  	border-radius: 4px;
  	text-align: left;
  }
