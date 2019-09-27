@@ -94,6 +94,10 @@ a {text-decoration: none;
  	width: 200px;
  }
 
+.container1 {
+	display: flex;
+  	justify-content: center;
+}
 */
 
 .container {
@@ -101,10 +105,6 @@ a {text-decoration: none;
 	width: 900px
 }
 
-.container1 {
-	display: flex;
-  	justify-content: center;
-}
 
 .white-card {
 	background-color: white;
