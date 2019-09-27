@@ -11,7 +11,7 @@ ul {
 }
 
 header {
-  position: absolute;
+  position: relative;
   background-color: black;
   height: 75vh;
   min-height: 25rem;
